@@ -1,0 +1,7 @@
+# ninja log v5
+1	21	1653372167504597784	CMakeFiles/BindingTest.dir/src/num.cpp.o	5c0de468713596c5
+0	180	1653372167660597393	CMakeFiles/BindingTest.dir/src/nummer.cpp.o	6672d9d17367c34c
+180	208	1653372167688597322	libBindingTest.so	2be912dcfa0aa47c
+0	12	1653530151504444673	src/CMakeFiles/BindingTest.dir/num.cpp.o	49b9e9c4a2ca7d87
+12	45	1653530151532444390	src/libBindingTest.so	cccdc13ae4919b29
+1	170	1653488398824014311	src/CMakeFiles/BindingTest.dir/nummer.cpp.o	ba6fa45b7d428cbc

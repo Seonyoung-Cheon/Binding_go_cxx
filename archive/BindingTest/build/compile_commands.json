@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/cheonsy/lattigo/gpu-core/BindingTest/build",
+  "command": "/usr/bin/c++ -DBindingTest_EXPORTS -I../src/include -fPIC -Wall -std=gnu++17 -o src/CMakeFiles/BindingTest.dir/nummer.cpp.o -c /home/cheonsy/lattigo/gpu-core/BindingTest/src/nummer.cpp",
+  "file": "/home/cheonsy/lattigo/gpu-core/BindingTest/src/nummer.cpp"
+},
+{
+  "directory": "/home/cheonsy/lattigo/gpu-core/BindingTest/build",
+  "command": "/usr/bin/c++ -DBindingTest_EXPORTS -I../src/include -fPIC -Wall -std=gnu++17 -o src/CMakeFiles/BindingTest.dir/num.cpp.o -c /home/cheonsy/lattigo/gpu-core/BindingTest/src/num.cpp",
+  "file": "/home/cheonsy/lattigo/gpu-core/BindingTest/src/num.cpp"
+}
+]
